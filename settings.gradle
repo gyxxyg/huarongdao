@@ -1,0 +1,3 @@
+include ':cocos2d_android'
+include ':app'
+
